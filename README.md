@@ -1,7 +1,5 @@
 <div align="center">
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+Repositorio)
-
 # 🌟 **Jorge Morales** 🌟  
 **Desarrollador Web Full Stack | Creador de Soluciones Digitales**
 
@@ -61,6 +59,5 @@ Hola 👋, soy Jorge, un desarrollador comprometido con construir aplicaciones q
 <div align="center">
 
 ## 🎨 **Gracias por visitar mi perfil!**
-![Quote](https://via.placeholder.com/600x150.png?text=Siempre+hay+una+nueva+meta+por+alcanzar)
 
 </div>
