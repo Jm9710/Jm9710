@@ -1,88 +1,66 @@
-<h1 align="center">Hola, soy Jorge Morales</h1>
-<h3 align="center">Desarrollador Web de Uruguay</h3>
+<div align="center">
+
+![Banner](https://via.placeholder.com/1200x300.png?text=Bienvenido+a+mi+Repositorio)
+
+# 🌟 **Jorge Morales** 🌟  
+**Desarrollador Web Full Stack | Creador de Soluciones Digitales**
+
+🚀 _Innovando desde Uruguay con pasión por el desarrollo web._
 
 ---
 
-### Sobre mí
-- 🔭 Actualmente estoy trabajando en [App Agenda SDC](https://github.com/Jm9710/app-agenda-sdc).  
-- 🚀 En continuo aprendizaje de **Frontend** y **Backend**.  
-- 💻 Apasionado por crear soluciones web eficientes y atractivas.  
+</div>
+
+## 🧑‍💻 **Sobre Mí**
+Hola 👋, soy Jorge, un desarrollador comprometido con construir aplicaciones que combinan diseño moderno y funcionalidad robusta. Me encanta explorar nuevas tecnologías y trabajar en proyectos que marcan la diferencia.
+
+- 🔭 Actualmente trabajo en [App Agenda SDC](https://github.com/Jm9710/app-agenda-sdc).  
+- 🌱 Aprendiendo constantemente sobre **Desarrollo Web**.  
+- 🎯 Objetivo a corto plazo: **Desarrollar aplicaciones altamente escalables y optimizadas para experiencias de usuario excepcionales.**  
+
 
 ---
 
-### Conecta conmigo
-<p align="left">
+<div align="center">
+
+## 🔧 **Tecnologías & Herramientas**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,python,flask,postgres,nodejs,express,docker,git,linux,vscode,heroku" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 **Sígueme o Conecta Conmigo**
+<p>
   <a href="https://linkedin.com/in/jorge-morales-altez" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jorge Morales LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
----
-
-### Tecnologías y Herramientas
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
-  </a>
-</p>
+</div>
 
 ---
 
-### Gracias por visitar mi perfil 🚀
+## 🏆 **Proyectos Destacados**
+
+### [📆 App Agenda SDC](https://github.com/Jm9710/app-agenda-sdc)
+> Sistema web interactivo para gestionar el flujo de trabajo, optimizado con **Flask** y una interfaz moderna con **React**.
+---
+
+## 🚀 **Mi Filosofía**
+"El software debe ser tan funcional como hermoso, y tan hermoso como funcional."  
+
+✨ _Siempre buscando aprender, compartir y construir algo increíble._
+
+---
+
+<div align="center">
+
+## 🎨 **Gracias por visitar mi perfil!**
+![Quote](https://via.placeholder.com/600x150.png?text=Siempre+hay+una+nueva+meta+por+alcanzar)
+
+</div>
