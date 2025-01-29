@@ -12,7 +12,8 @@
 ## 🧑‍💻 **Sobre Mí**
 Hola 👋, soy Jorge, un desarrollador comprometido con construir aplicaciones que combinan diseño moderno y funcionalidad robusta. Me encanta explorar nuevas tecnologías y trabajar en proyectos que marcan la diferencia.
 
-- 🔭 Actualmente trabajo en [App Agenda SDC](https://github.com/Jm9710/app-agenda-sdc).  
+- 🔭 Actualmente trabajo en [App Productores SDC](https://github.com/Jm9710/appProducotres).
+- 🔭 Proyecto mas reciente [App Agenda SDC](https://github.com/Jm9710/app-agenda-sdc).  
 - 🌱 Aprendiendo constantemente sobre **Desarrollo Web**.  
 - 🎯 Objetivo a corto plazo: **Desarrollar aplicaciones altamente escalables y optimizadas para experiencias de usuario excepcionales.**  
 
